@@ -20,4 +20,7 @@ plotly, sklearn
 📤 Final Summary CSV for dashboard integration
 
 
-
+🙋‍♀️ Developed By
+Vishakha Kshirsagar
+🎓 M.Sc. IT | Aspiring Data Analyst
+📫 LinkedIn Profile | 💻 GitHub Profile
